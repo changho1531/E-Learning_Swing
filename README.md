@@ -26,6 +26,8 @@ ___
 - 신창호 : 프로필
 
 ___
-# 4. 구현내용  
+# 4. 구현내용
 ## (1) Login Frame  
 ![image](https://user-images.githubusercontent.com/97524700/213842497-58708f7f-f8f7-4294-8b3a-e6bd339a13cb.png)
+
+그 외 구현된 페이지는 오랜 시간이 지나 서버가 사라 졌습니다.
