@@ -5,7 +5,7 @@ ___
 - 현재 학교에서 사용하고 있는 E-Learning을 하나의 프로그램으로 관리 및 시청을 하면 좋을 것 같다는 생각에 프로젝트를 고안하게 되었습니다.  
 ___
 # 2. 기술 스택
-- Java, Eclipse, JSP, Oracle
+- Java, Eclipse, Swing, Oracle
 ___
 # 3. 프로젝트 구성요소  
 (1) 로그인  
